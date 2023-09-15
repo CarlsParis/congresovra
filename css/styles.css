@@ -10946,7 +10946,7 @@ p {
 
 
 
-header.masthead {
+div.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
@@ -10956,6 +10956,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+
 }
 
 
