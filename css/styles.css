@@ -99,7 +99,7 @@ body {
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-color);
   text-align: var(--bs-body-text-align);
-  background-color: var(--bs-body-bg);
+  background-color: var(--bs-body-bg); 
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -10946,7 +10946,7 @@ p {
 
 
 
-div.masthead {
+header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
@@ -10956,8 +10956,8 @@ div.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-
-}
+ 
+} 
 
 
 
